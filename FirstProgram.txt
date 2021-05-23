@@ -1,8 +1,10 @@
-Class FirstProgram
-{
-public static void main(String Args[]){
+<!DOCTYPE html>
+<html>
+<body>
 
-System.out.println("HII world");
+<h1>My First Heading</h1>
 
-}
-}
+<p>My first paragraph.</p>
+
+</body>
+</html>
